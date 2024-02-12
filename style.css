@@ -1,0 +1,39 @@
+ body{
+  background-color: #18ffff;
+ }
+
+ 
+ .sub-title
+  {
+    background-color: rgb(255, 0, 242);
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(255, 0, 242);
+    font-family: "Playfair Display", serif;
+  }
+  .sub-sub-title  {
+    background:  rgb(238, 0, 255) ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px #f200ff;
+  }
+  .sub-text
+  {
+    font-size: 18px ;
+  }
+  .Accuracy-number{
+    box-shadow:5px 5px 5px  #00ff99;
+    font-size: 20px;
+  }
+ .object-identifier{
+  font-family: "Montserrat", sans-serif;
+  background-color: #00ff99;
+  width: 90px;
+  border-radius: 20%;
+ }
+ .Accuracy{
+  font-family: "Montserrat", sans-serif;
+  background-color: #00ff99;
+  width: 90px;
+  border-radius:20%;
+ }
